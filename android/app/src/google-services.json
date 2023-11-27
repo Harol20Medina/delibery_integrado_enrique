@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340881152510",
+    "project_id": "delivery-app-e21e9",
+    "storage_bucket": "delivery-app-e21e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340881152510:android:b4cd688c256bc3071348af",
+        "android_client_info": {
+          "package_name": "com.example.delibery_integrado_enrique"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEsxpDNCncnaZuA_acjHHaDETAQCXFs6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
